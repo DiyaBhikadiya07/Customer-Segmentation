@@ -3,11 +3,11 @@ Customer Segmentation using K-Means Clustering
 📊 A Machine Learning project that analyzes customer data and groups similar customers into different segments using K-Means Clustering.
 
 
-🔍 Project Overview
+🔍 Project Overview:- 
 This project uses Python and Machine Learning to analyze customer information such as Age, Gender, Annual Income, and Spending Score. The goal is to identify groups of customers with similar characteristics and understand their behavior.
 
 
-🎯 Objectives:-
+🎯 Objectives:- 
 📌 Analyze customer data
 📊 Visualize customer behavior
 🤖 Apply K-Means Clustering
@@ -16,7 +16,7 @@ This project uses Python and Machine Learning to analyze customer information su
 💡 Support data-driven marketing and business decisions
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used:- 
 🐍 Python
 🐼 Pandas – Data handling and analysis
 🔢 NumPy – Numerical operations
